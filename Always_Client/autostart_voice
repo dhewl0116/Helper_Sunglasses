@@ -1,0 +1,13 @@
+#!/bin/sh
+
+while :
+do
+process=`ps -ef | grep chat_server | grep -v "grep" | wc -l`
+        if [ ${process} -eq 0 ];then 
+                echo "process down"
+
+                cd /home/pi/CodeFair_Always
+                ./chat_server &                      
+        fi
+
+done
