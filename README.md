@@ -1,16 +1,1 @@
-###제 5회 한국코드페어에서 은상을 수상한 작품입니다.
-![Always팀_발표자료](https://github.com/Team-Always/Helper_Sunglasses/assets/152771549/f92a25e7-ae47-498a-96be-8aaf85f4b876)
-![Always팀_발표자료 (1)](https://github.com/Team-Always/Helper_Sunglasses/assets/152771549/6bacf361-533b-442c-abee-0acf441651a9)
-![Always팀_발표자료 (2)](https://github.com/Team-Always/Helper_Sunglasses/assets/152771549/c091c46d-cea4-45d4-8fea-2e682ef242f0)
-![Always팀_발표자료 (3)](https://github.com/Team-Always/Helper_Sunglasses/assets/152771549/792040b7-9a9e-40da-803c-06b9545e5454)
-![Always팀_발표자료 (4)](https://github.com/Team-Always/Helper_Sunglasses/assets/152771549/810a8281-2f31-4daf-adca-93698c00cb8d)
-![Always팀_발표자료 (5)](https://github.com/Team-Always/Helper_Sunglasses/assets/152771549/0f67dcc1-759c-4a52-8de6-0731c57ed226)
-![Always팀_발표자료 (6)](https://github.com/Team-Always/Helper_Sunglasses/assets/152771549/4992d1a8-6ad8-44aa-a14c-1cfc6e6f2173)
-![Always팀_발표자료 (7)](https://github.com/Team-Always/Helper_Sunglasses/assets/152771549/9fed24f5-cb5f-44d6-8535-8ff2c5fd21e8)
-![Always팀_발표자료 (8)](https://github.com/Team-Always/Helper_Sunglasses/assets/152771549/79fdce05-53b7-439c-9b71-a7de1e0b98c7)
-![Always팀_발표자료 (9)](https://github.com/Team-Always/Helper_Sunglasses/assets/152771549/e7840da9-6ea9-417f-af88-e2c6cf74b611)
-![Always팀_발표자료 (10)](https://github.com/Team-Always/Helper_Sunglasses/assets/152771549/8ff2e347-4a5a-4e8c-8601-84cd2748ecbc)
-![Always팀_발표자료 (11)](https://github.com/Team-Always/Helper_Sunglasses/assets/152771549/51fb6852-ac6a-4538-95a1-04c13bfa1688)
-![Always팀_발표자료 (12)](https://github.com/Team-Always/Helper_Sunglasses/assets/152771549/341b3cb8-e26f-4326-a336-a12a1397a1ea)
-![Always팀_발표자료 (13)](https://github.com/Team-Always/Helper_Sunglasses/assets/152771549/4faf5120-f2d9-4556-bae6-f2709988982a)
-![Always팀_발표자료 (14)](https://github.com/Team-Always/Helper_Sunglasses/assets/152771549/c9592c07-f3bb-40fd-9b7d-932e17a7a141)
+### 제 5회 한국코드페어에서 은상을 수상한 작품입니다.
