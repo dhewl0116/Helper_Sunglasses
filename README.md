@@ -1,4 +1,4 @@
-제 5회 한국코드페어 은상 수상
+###제 5회 한국코드페어에서 은상을 수상한 작품입니다.
 ![Always팀_발표자료](https://github.com/Team-Always/Helper_Sunglasses/assets/152771549/f92a25e7-ae47-498a-96be-8aaf85f4b876)
 ![Always팀_발표자료 (1)](https://github.com/Team-Always/Helper_Sunglasses/assets/152771549/6bacf361-533b-442c-abee-0acf441651a9)
 ![Always팀_발표자료 (2)](https://github.com/Team-Always/Helper_Sunglasses/assets/152771549/c091c46d-cea4-45d4-8fea-2e682ef242f0)
