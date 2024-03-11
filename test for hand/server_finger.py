@@ -5,7 +5,7 @@ import json
 import subprocess
 import uvicorn as uvicorn
 from fastapi import FastAPI
-from multiprocessing import Process, Manager
+from multiprocessing import Process
 from ultralytics import YOLO
 import mediapipe as mp
 import math
@@ -38,7 +38,7 @@ def start():
     global proc
     if proc:
         proc.kill()
-    proc = Process(target=webcam_server, args=(Manager().Value(str, cls),))
+    proc = Process(target=webcam_server)
     proc.start()
     print('시작')
     return "YOLOv8 서버 가동 시작"
@@ -48,15 +48,8 @@ def stop():
     proc.kill()
     os.system('rm -rf output.avi')
     return "서버 가동 중지"
-
-@app.get("/get")
-def get_result(cls_manager: Manager().Value):
-    global cls
-    cls = cls_manager.value
-    print(cls)
-    return cls
-
-def webcam_server(cls_manager: Manager().Value):
+    
+def webcam_server():
     global cls
     cap = cv2.VideoCapture(0)
 
