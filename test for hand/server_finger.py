@@ -97,7 +97,7 @@ def webcam_server(cls_manager: Manager().Value):
                     ocr_list = []
                     ocr_str = ""
                     for cmd in [""" curl --location --request POST 'https://52695d72-4503-4abf-86a9-51f019cbaf0c.api.kr-central-1.kakaoi.io/ai/ocr/d813f986abd441fdb8b99addccadb811' \
-                                --header 'x-api-key: f345f224cffdcbe79de2127bc7ba0db4' \
+                                --header 'x-api-key: ' \
                                 --header 'Content-Type: multipart/form-data' \
                                 --form 'image=@"ocr.png"' """]:
                         ocr = subprocess.check_output(cmd, shell=True).decode('utf-8').strip()
@@ -127,7 +127,7 @@ def webcam_server(cls_manager: Manager().Value):
                         ocr_list = []
                         ocr_str = ""
                         for cmd in [""" curl --location --request POST 'https://52695d72-4503-4abf-86a9-51f019cbaf0c.api.kr-central-1.kakaoi.io/ai/ocr/d813f986abd441fdb8b99addccadb811' \
-                                    --header 'x-api-key: f345f224cffdcbe79de2127bc7ba0db4' \
+                                    --header 'x-api-key: ' \
                                     --header 'Content-Type: multipart/form-data' \
                                     --form 'image=@"ocr.png"' """]:
                             ocr = subprocess.check_output(cmd, shell=True).decode('utf-8').strip()
